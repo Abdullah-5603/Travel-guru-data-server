@@ -1,0 +1,322 @@
+[
+ {
+   "id" : "1",
+  "name" : "TEKNAF",
+  "hotels": [
+    {
+      "id": "1",
+      "image": "https://images.unsplash.com/photo-1572987669554-0ba2ba9aee1f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhvdGVsJTIwYmVkcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "hotelName": "Luxury Resort",
+      "roomFacilities": [
+        "TV",
+        "AC",
+        "Mini-bar",
+        "Wi-Fi"
+      ],
+      "hotelRating": 4.5,
+      "rooms": [
+        {
+          "roomCategory": "Deluxe Room",
+          "roomCategoryDescription": "A spacious and luxurious room with a king-sized bed, a private balcony, and a sea view.",
+          "pricing": "$250"
+        },
+        {
+          "roomCategory": "Executive Suite",
+          "roomCategoryDescription": "An elegant and modern suite with a separate living area, a private Jacuzzi, and a city view.",
+          "pricing": "$400"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "image": "https://images.unsplash.com/photo-1619128395560-8a749ac9926d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGhvdGVsJTIwYmVkcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "hotelName": "Beachfront Hotel",
+      "roomFacilities": [
+        "TV",
+        "AC",
+        "Mini-bar",
+        "Wi-Fi",
+        "Ocean View"
+      ],
+      "hotelRating": 4.2,
+      "rooms": [
+        {
+          "roomCategory": "Standard Room",
+          "roomCategoryDescription": "A comfortable and cozy room with a queen-sized bed, a private bathroom, and an ocean view.",
+          "pricing": "$150"
+        },
+        {
+          "roomCategory": "Premium Room",
+          "roomCategoryDescription": "A spacious and modern room with a king-sized bed, a private balcony, and a panoramic ocean view.",
+          "pricing": "$200"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aG90ZWwlMjBUZWtuYWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "hotelName": "City View Inn",
+      "roomFacilities": [
+        "TV",
+        "AC",
+        "Mini-bar",
+        "Wi-Fi",
+        "City View"
+      ],
+      "hotelRating": 3.8,
+      "rooms": [
+        {
+          "roomCategory": "Single Room",
+          "roomCategoryDescription": "A cozy and compact room with a single bed, a private bathroom, and a city view.",
+          "pricing": "$80"
+        },
+        {
+          "roomCategory": "Double Room",
+          "roomCategoryDescription": "A spacious and comfortable room with a queen-sized bed, a private balcony, and a city view.",
+          "pricing": "$120"
+        }
+      ]
+    }
+  ]
+ },
+ {
+  "id": "2",
+  "name": "SAJEK VALLEY",
+  "hotels": [
+    {
+      "id": "1",
+      "image": "https://images.unsplash.com/photo-1572987669554-0ba2ba9aee1f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhvdGVsJTIwYmVkcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "hotelName": "Luxury Resort",
+      "roomFacilities": [
+        "TV",
+        "AC",
+        "Mini-bar",
+        "Wi-Fi"
+      ],
+      "hotelRating": 4.5,
+      "rooms": [
+        {
+          "roomCategory": "Deluxe Room",
+          "roomCategoryDescription": "A spacious and luxurious room with a king-sized bed, a private balcony, and a sea view.",
+          "pricing": "$250"
+        },
+        {
+          "roomCategory": "Executive Suite",
+          "roomCategoryDescription": "An elegant and modern suite with a separate living area, a private Jacuzzi, and a city view.",
+          "pricing": "$400"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "image": "https://images.unsplash.com/photo-1619128395560-8a749ac9926d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGhvdGVsJTIwYmVkcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "hotelName": "Beachfront Hotel",
+      "roomFacilities": [
+        "TV",
+        "AC",
+        "Mini-bar",
+        "Wi-Fi",
+        "Ocean View"
+      ],
+      "hotelRating": 4.2,
+      "rooms": [
+        {
+          "roomCategory": "Standard Room",
+          "roomCategoryDescription": "A comfortable and cozy room with a queen-sized bed, a private bathroom, and an ocean view.",
+          "pricing": "$150"
+        },
+        {
+          "roomCategory": "Premium Room",
+          "roomCategoryDescription": "A spacious and modern room with a king-sized bed, a private balcony, and a panoramic ocean view.",
+          "pricing": "$200"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aG90ZWwlMjBUZWtuYWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "hotelName": "City View Inn",
+      "roomFacilities": [
+        "TV",
+        "AC",
+        "Mini-bar",
+        "Wi-Fi",
+        "City View"
+      ],
+      "hotelRating": 3.8,
+      "rooms": [
+        {
+          "roomCategory": "Single Room",
+          "roomCategoryDescription": "A cozy and compact room with a single bed, a private bathroom, and a city view.",
+          "pricing": "$80"
+        },
+        {
+          "roomCategory": "Double Room",
+          "roomCategoryDescription": "A spacious and comfortable room with a queen-sized bed, a private balcony, and a city view.",
+          "pricing": "$120"
+        }
+      ]
+    }
+  ]
+ },
+ {
+  "id": "3",
+  "name": "BANDORBAN",
+  "hotels": [
+    {
+      "id": "1",
+      "image": "https://images.unsplash.com/photo-1572987669554-0ba2ba9aee1f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhvdGVsJTIwYmVkcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "hotelName": "Luxury Resort",
+      "roomFacilities": [
+        "TV",
+        "AC",
+        "Mini-bar",
+        "Wi-Fi"
+      ],
+      "hotelRating": 4.5,
+      "rooms": [
+        {
+          "roomCategory": "Deluxe Room",
+          "roomCategoryDescription": "A spacious and luxurious room with a king-sized bed, a private balcony, and a sea view.",
+          "pricing": "$250"
+        },
+        {
+          "roomCategory": "Executive Suite",
+          "roomCategoryDescription": "An elegant and modern suite with a separate living area, a private Jacuzzi, and a city view.",
+          "pricing": "$400"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "image": "https://images.unsplash.com/photo-1619128395560-8a749ac9926d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGhvdGVsJTIwYmVkcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "hotelName": "Beachfront Hotel",
+      "roomFacilities": [
+        "TV",
+        "AC",
+        "Mini-bar",
+        "Wi-Fi",
+        "Ocean View"
+      ],
+      "hotelRating": 4.2,
+      "rooms": [
+        {
+          "roomCategory": "Standard Room",
+          "roomCategoryDescription": "A comfortable and cozy room with a queen-sized bed, a private bathroom, and an ocean view.",
+          "pricing": "$150"
+        },
+        {
+          "roomCategory": "Premium Room",
+          "roomCategoryDescription": "A spacious and modern room with a king-sized bed, a private balcony, and a panoramic ocean view.",
+          "pricing": "$200"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aG90ZWwlMjBUZWtuYWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "hotelName": "City View Inn",
+      "roomFacilities": [
+        "TV",
+        "AC",
+        "Mini-bar",
+        "Wi-Fi",
+        "City View"
+      ],
+      "hotelRating": 3.8,
+      "rooms": [
+        {
+          "roomCategory": "Single Room",
+          "roomCategoryDescription": "A cozy and compact room with a single bed, a private bathroom, and a city view.",
+          "pricing": "$80"
+        },
+        {
+          "roomCategory": "Double Room",
+          "roomCategoryDescription": "A spacious and comfortable room with a queen-sized bed, a private balcony, and a city view.",
+          "pricing": "$120"
+        }
+      ]
+    }
+  ]
+ },
+ {
+  "id": "4",
+  "name": "RANGAMATI",
+  "hotels": [
+    {
+      "id": "1",
+      "image": "https://images.unsplash.com/photo-1572987669554-0ba2ba9aee1f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhvdGVsJTIwYmVkcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "hotelName": "Luxury Resort",
+      "roomFacilities": [
+        "TV",
+        "AC",
+        "Mini-bar",
+        "Wi-Fi"
+      ],
+      "hotelRating": 4.5,
+      "rooms": [
+        {
+          "roomCategory": "Deluxe Room",
+          "roomCategoryDescription": "A spacious and luxurious room with a king-sized bed, a private balcony, and a sea view.",
+          "pricing": "$250"
+        },
+        {
+          "roomCategory": "Executive Suite",
+          "roomCategoryDescription": "An elegant and modern suite with a separate living area, a private Jacuzzi, and a city view.",
+          "pricing": "$400"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "image": "https://images.unsplash.com/photo-1619128395560-8a749ac9926d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGhvdGVsJTIwYmVkcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "hotelName": "Beachfront Hotel",
+      "roomFacilities": [
+        "TV",
+        "AC",
+        "Mini-bar",
+        "Wi-Fi",
+        "Ocean View"
+      ],
+      "hotelRating": 4.2,
+      "rooms": [
+        {
+          "roomCategory": "Standard Room",
+          "roomCategoryDescription": "A comfortable and cozy room with a queen-sized bed, a private bathroom, and an ocean view.",
+          "pricing": "$150"
+        },
+        {
+          "roomCategory": "Premium Room",
+          "roomCategoryDescription": "A spacious and modern room with a king-sized bed, a private balcony, and a panoramic ocean view.",
+          "pricing": "$200"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aG90ZWwlMjBUZWtuYWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "hotelName": "City View Inn",
+      "roomFacilities": [
+        "TV",
+        "AC",
+        "Mini-bar",
+        "Wi-Fi",
+        "City View"
+      ],
+      "hotelRating": 3.8,
+      "rooms": [
+        {
+          "roomCategory": "Single Room",
+          "roomCategoryDescription": "A cozy and compact room with a single bed, a private bathroom, and a city view.",
+          "pricing": "$80"
+        },
+        {
+          "roomCategory": "Double Room",
+          "roomCategoryDescription": "A spacious and comfortable room with a queen-sized bed, a private balcony, and a city view.",
+          "pricing": "$120"
+        }
+      ]
+    }
+  ]
+ }
+]

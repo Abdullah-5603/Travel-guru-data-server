@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "TEKNAF",
+        "image" : "https://images.unsplash.com/photo-1651349770899-5803ddb064ac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHw%3D&w=1000&q=80",
+        "description": "Teknaf is a small town located on the southernmost tip of Bangladesh, known for its beautiful beaches and the Teknaf Game Reserve, which is home to a variety of wildlife including tigers, elephants, and deer. The town itself is small and quiet, with a relaxed atmosphere that is perfect for those looking to escape the hustle and bustle of the city. The beaches in Teknaf are some of the most beautiful in Bangladesh, with white sand and clear blue waters. Visitors can enjoy swimming, sunbathing, and snorkeling in the crystal-clear waters. One of the main attractions in Teknaf is the Teknaf Game Reserve, which covers an area of over 30,000 hectares. The reserve is home to a wide variety of wildlife, including tigers, elephants, deer, and monkeys."
+    },
+    {
+        "id": "2",
+        "name": "SAJEK VALLEY",
+        "image": "https://w0.peakpx.com/wallpaper/286/116/HD-wallpaper-beautiful-bangladesh-forest-mountain-nature-sajek.jpg",
+        "description": "Sajek Valley is a remote hill station located in the Chittagong Hill Tracts of Bangladesh, known for its breathtaking views of the surrounding mountains and valleys. The valley is situated at an altitude of 1,476 meters above sea level and is home to several indigenous communities, including the Chakma, Marma, and Tripura people. Sajek Valley is a popular destination for trekking and hiking, with several hiking trails that offer stunning views of the surrounding landscape. Visitors can explore the valley on foot and see the lush green hills, deep valleys, and cascading waterfalls. The valley is also home to several small villages, where visitors can learn about the local culture and way of life."
+    },
+    {
+        "id": "3",
+        "name": "BANDORBAN",
+        "image":"https://i.pinimg.com/736x/07/35/87/073587f26970846bd6e38a96a2d9b1be.jpg",
+        "description": "Bandarban is a district located in southeastern Bangladesh, known for its picturesque landscapes, waterfalls, and diverse indigenous communities. It is home to several trekking and hiking trails that offer breathtaking views of the surrounding hills and valleys. One of the main attractions in Bandarban is the Chimbuk Hill, which is the third-highest peak in Bangladesh and offers stunning panoramic views of the surrounding landscape. Visitors can also explore the Boga Lake, a natural lake located in the midst of the hills, which is popular for swimming and boating. Bandarban is also home to several indigenous communities, including the Marma, Tripura, and Bawm people."
+    },
+    {
+        "id": "4",
+        "name": "RANGAMATI",
+        "image":"https://media.istockphoto.com/id/1442686874/photo/vertical-shot-of-a-dust-trail-up-rural-hills-in-rangamati-bangladesh.jpg?b=1&s=170667a&w=0&k=20&c=O2x5XmKAKSKA2aUtXRqvcDi0ptz6DNJpLGxu4LBEadk=",
+        "description": "Rangamati is a scenic district located in the Chittagong Hill Tracts of Bangladesh. It is known for its picturesque landscape, comprising lush green hills, crystal-clear lakes, and winding rivers. The district is home to numerous indigenous communities, including the Chakma, Marma, and Tripura people, who have their own unique cultures, traditions, and ways of life. Visitors to Rangamati can explore its rich cultural heritage by visiting local villages, attending traditional festivals, and sampling local cuisine. The district is also popular for adventure activities such as trekking, hiking, and boating, with opportunities to explore the area's natural beauty at every turn."
+    }
+]
