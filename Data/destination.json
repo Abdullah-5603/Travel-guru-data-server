@@ -2,25 +2,461 @@
     {
         "id": "1",
         "name": "TEKNAF",
-        "image" : "https://images.unsplash.com/photo-1651349770899-5803ddb064ac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHw%3D&w=1000&q=80",
-        "description": "Teknaf is a small town located on the southernmost tip of Bangladesh, known for its beautiful beaches and the Teknaf Game Reserve, which is home to a variety of wildlife including tigers, elephants, and deer. The town itself is small and quiet, with a relaxed atmosphere that is perfect for those looking to escape the hustle and bustle of the city. The beaches in Teknaf are some of the most beautiful in Bangladesh, with white sand and clear blue waters. Visitors can enjoy swimming, sunbathing, and snorkeling in the crystal-clear waters. One of the main attractions in Teknaf is the Teknaf Game Reserve, which covers an area of over 30,000 hectares. The reserve is home to a wide variety of wildlife, including tigers, elephants, deer, and monkeys."
+        "image": "https://images.unsplash.com/photo-1651349770899-5803ddb064ac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHw%3D&w=1000&q=80",
+        "description": "Teknaf is a small town located on the southernmost tip of Bangladesh, known for its beautiful beaches and the Teknaf Game Reserve, which is home to a variety of wildlife including tigers, elephants, and deer. The town itself is small and quiet, with a relaxed atmosphere that is perfect for those looking to escape the hustle and bustle of the city. The beaches in Teknaf are some of the most beautiful in Bangladesh, with white sand and clear blue waters. The reserve is home to a wide variety of wildlife, including tigers, elephants, deer, and monkeys.",
+        "hotels": [
+            {
+                "id": "HCR123",
+                "hotelName": "Hotel Coral Reef",
+                "image": "https://www.hotelcoralreefresort.com/uploads/2/6/0/4/26040780/img-2940_orig.jpg",
+                "hotelDescription": "Hotel Coral Reef is a beachfront resort located in Cox's Bazar, Bangladesh. The hotel offers comfortable and well-equipped rooms with modern amenities such as air conditioning, free Wi-Fi, flat-screen TV, and private bathrooms.",
+                "roomFacilities": [
+                    "Air Conditioning",
+                    "Free WiFi",
+                    "Flat-screen TV",
+                    "Private Bathroom",
+                    "Toiletries"
+                ],
+                "hotelRatings": 8.5,
+                "rooms": [
+                    {
+                        "roomType": "Deluxe Double Room",
+                        "maxGuests": 2,
+                        "beds": "1 double bed",
+                        "pricePerNight": 120
+                    },
+                    {
+                        "roomType": "Superior Twin Room",
+                        "maxGuests": 2,
+                        "beds": "2 single beds",
+                        "pricePerNight": 140
+                    },
+                    {
+                        "roomType": "Family Room",
+                        "maxGuests": 4,
+                        "beds": "2 double beds",
+                        "pricePerNight": 220
+                    }
+                ]
+            },
+            {
+                "id": "HCT456",
+                "hotelName": "Hotel Cox Today",
+                "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/22/1f/96/d7/hotel-the-cox-today.jpg",
+                "hotelDescription": "Hotel Cox Today (ID: HCT456) offers air-conditioned rooms with free WiFi, flat-screen TVs, private bathrooms, and balconies. Room types include Standard Double, Deluxe Twin, and Suite, with prices ranging from $100 to $250 per night. The hotel has a high rating of 9.2.",
+                "roomFacilities": [
+                    "Air Conditioning",
+                    "Free WiFi",
+                    "Flat-screen TV",
+                    "Private Bathroom",
+                    "Toiletries",
+                    "Balcony"
+                ],
+                "hotelRatings": 9.2,
+                "rooms": [
+                    {
+                        "roomType": "Standard Double Room",
+                        "maxGuests": 2,
+                        "beds": "1 double bed",
+                        "pricePerNight": 100
+                    },
+                    {
+                        "roomType": "Deluxe Twin Room",
+                        "maxGuests": 2,
+                        "beds": "2 single beds",
+                        "pricePerNight": 120
+                    },
+                    {
+                        "roomType": "Suite",
+                        "maxGuests": 4,
+                        "beds": "2 double beds",
+                        "pricePerNight": 250
+                    }
+                ]
+            },
+            {
+                "id": "HSW789",
+                "hotelName": "Hotel Sea World",
+                "hotelDescription": "Hotel Sea World offers comfortable and stylish accommodations with a range of amenities, including air conditioning, free WiFi, and stunning sea views, all at affordable prices.",
+                "image": "https://letsgomum.com.au/wp-content/uploads/2022/09/6DD14CAF-293F-4B3F-BE33-9334B28725B7-1000x607.jpeg",
+                "roomFacilities": [
+                    "Air Conditioning",
+                    "Free WiFi",
+                    "Flat-screen TV",
+                    "Private Bathroom",
+                    "Toiletries",
+                    "Sea View"
+                ],
+                "hotelRatings": 8.9,
+                "rooms": [
+                    {
+                        "roomType": "Standard Double Room",
+                        "maxGuests": 2,
+                        "beds": "1 double bed",
+                        "pricePerNight": 80
+                    },
+                    {
+                        "roomType": "Superior Double Room",
+                        "maxGuests": 2,
+                        "beds": "1 double bed",
+                        "pricePerNight": 100
+                    },
+                    {
+                        "roomType": "Executive Suite",
+                        "maxGuests": 4,
+                        "beds": "2 double beds",
+                        "pricePerNight": 200
+                    }
+                ]
+            }
+        ]
     },
     {
         "id": "2",
         "name": "SAJEK VALLEY",
         "image": "https://w0.peakpx.com/wallpaper/286/116/HD-wallpaper-beautiful-bangladesh-forest-mountain-nature-sajek.jpg",
-        "description": "Sajek Valley is a remote hill station located in the Chittagong Hill Tracts of Bangladesh, known for its breathtaking views of the surrounding mountains and valleys. The valley is situated at an altitude of 1,476 meters above sea level and is home to several indigenous communities, including the Chakma, Marma, and Tripura people. Sajek Valley is a popular destination for trekking and hiking, with several hiking trails that offer stunning views of the surrounding landscape. Visitors can explore the valley on foot and see the lush green hills, deep valleys, and cascading waterfalls. The valley is also home to several small villages, where visitors can learn about the local culture and way of life."
+        "description": "Sajek Valley is a remote hill station located in the Chittagong Hill Tracts of Bangladesh, known for its breathtaking views of the surrounding mountains and valleys. The valley is situated at an altitude of 1,476 meters above sea level and is home to several indigenous communities, including the Chakma, Marma, and Tripura people. Sajek Valley is a popular destination for trekking and hiking, with several hiking trails that offer stunning views of the surrounding landscape. Visitors can explore the valley on foot and see the lush green hills, deep valleys, and cascading waterfalls. The valley is also home to several small villages, where visitors can learn about the local culture and way of life.",
+        "hotels": [
+            {
+                "id": "PHR123",
+                "hotelName": "Purbani Hotel & Resort",
+                "hotelDescription": "Experience luxury and comfort at Purbani Hotel & Resort, with stunning views and exceptional service. Enjoy spacious rooms with top-notch amenities and indulge in delicious cuisine at our on-site restaurant.",
+                "image": "https://hotel-purbani-international-dhaka.booked.net/data/Photos/OriginalPhoto/5668/566813/566813595/Hotel-Purbani-International-Dhaka-Exterior.JPEG",
+                "roomFacilities": [
+                    "Air Conditioning",
+                    "Free WiFi",
+                    "Flat-screen TV",
+                    "Private Bathroom",
+                    "Toiletries",
+                    "Balcony"
+                ],
+                "hotelRatings": 8.2,
+                "rooms": [
+                    {
+                        "roomType": "Standard Double Room",
+                        "maxGuests": 2,
+                        "beds": "1 double bed",
+                        "pricePerNight": 100
+                    },
+                    {
+                        "roomType": "Deluxe Twin Room",
+                        "maxGuests": 2,
+                        "beds": "2 single beds",
+                        "pricePerNight": 120
+                    },
+                    {
+                        "roomType": "Family Suite",
+                        "maxGuests": 4,
+                        "beds": "2 double beds",
+                        "pricePerNight": 220
+                    }
+                ]
+            }
+            ,
+            {
+                "id": "RR456",
+                "hotelName": "Runmoy Resort",
+                "hotelDescription": "Runmoy Resort offers stunning mountain views and modern amenities like flat-screen TVs and free WiFi. Relax in comfortable rooms with double beds or twin beds, or opt for a family room for more space.",
+                "image": "https://media-cdn.tripadvisor.com/media/photo-s/1c/11/c8/47/caption.jpg",
+                "roomFacilities": [
+                    "Air Conditioning",
+                    "Free WiFi",
+                    "Flat-screen TV",
+                    "Private Bathroom",
+                    "Toiletries",
+                    "Mountain View"
+                ],
+                "hotelRatings": 9.1,
+                "rooms": [
+                    {
+                        "roomType": "Standard Double Room",
+                        "maxGuests": 2,
+                        "beds": "1 double bed",
+                        "pricePerNight": 90
+                    },
+                    {
+                        "roomType": "Deluxe Twin Room",
+                        "maxGuests": 2,
+                        "beds": "2 single beds",
+                        "pricePerNight": 110
+                    },
+                    {
+                        "roomType": "Family Room",
+                        "maxGuests": 4,
+                        "beds": "2 double beds",
+                        "pricePerNight": 200
+                    }
+                ]
+            }
+            ,
+            {
+                "id": "MMR789",
+                "hotelName": "Megh Machang Resort",
+                "hotelDescription": "Experience ultimate luxury at Megh Machang Resort, where modern amenities meet stunning natural beauty. Enjoy comfortable rooms, delicious cuisine, and unparalleled service.",
+                "image": "https://scontent.fdac142-1.fna.fbcdn.net/v/t1.6435-9/188455237_2986286035023999_7640417723655015388_n.jpg?stp=dst-jpg_p843x403&_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=NofQ7QuyCAwAX_ULE9k&_nc_ht=scontent.fdac142-1.fna&oh=00_AfBniqLSVHjMPyMQG6SoUq1udPE8qyEWGWfVVk-e0ZJ0IQ&oe=647CB8B8",
+                "roomFacilities": [
+                    "Air Conditioning",
+                    "Free WiFi",
+                    "Flat-screen TV",
+                    "Private Bathroom",
+                    "Toiletries",
+                    "River View"
+                ],
+                "hotelRatings": 8.9,
+                "rooms": [
+                    {
+                        "roomType": "Standard Double Room",
+                        "maxGuests": 2,
+                        "beds": "1 double bed",
+                        "pricePerNight": 80
+                    },
+                    {
+                        "roomType": "Superior Double Room",
+                        "maxGuests": 2,
+                        "beds": "1 double bed",
+                        "pricePerNight": 100
+                    },
+                    {
+                        "roomType": "Executive Suite",
+                        "maxGuests": 4,
+                        "beds": "2 double beds",
+                        "pricePerNight": 200
+                    }
+                ]
+            }
+            
+        ]
     },
     {
         "id": "3",
         "name": "BANDORBAN",
-        "image":"https://i.pinimg.com/736x/07/35/87/073587f26970846bd6e38a96a2d9b1be.jpg",
-        "description": "Bandarban is a district located in southeastern Bangladesh, known for its picturesque landscapes, waterfalls, and diverse indigenous communities. It is home to several trekking and hiking trails that offer breathtaking views of the surrounding hills and valleys. One of the main attractions in Bandarban is the Chimbuk Hill, which is the third-highest peak in Bangladesh and offers stunning panoramic views of the surrounding landscape. Visitors can also explore the Boga Lake, a natural lake located in the midst of the hills, which is popular for swimming and boating. Bandarban is also home to several indigenous communities, including the Marma, Tripura, and Bawm people."
+        "image": "https://i.pinimg.com/736x/07/35/87/073587f26970846bd6e38a96a2d9b1be.jpg",
+        "description": "Bandarban is a district located in southeastern Bangladesh, known for its picturesque landscapes, waterfalls, and diverse indigenous communities. It is home to several trekking and hiking trails that offer breathtaking views of the surrounding hills and valleys. One of the main attractions in Bandarban is the Chimbuk Hill, which is the third-highest peak in Bangladesh and offers stunning panoramic views of the surrounding landscape. Visitors can also explore the Boga Lake, a natural lake located in the midst of the hills, which is popular for swimming and boating. Bandarban is also home to several indigenous communities, including the Marma, Tripura, and Bawm people.",
+        "hotels": [
+            {
+                "id": "HVR123",
+                "hotelName": "Hill View Resort",
+                "hotelDescription": "Escape to a tranquil mountain retreat at Hill View Resort. Enjoy breathtaking views, modern amenities, and comfortable rooms for a relaxing getaway.",
+                "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/89/8b/21/3-storey-hotel-building.jpg?w=700&h=-1&s=1",
+                "roomFacilities": [
+                    "Air Conditioning",
+                    "Free WiFi",
+                    "Flat-screen TV",
+                    "Private Bathroom",
+                    "Toiletries",
+                    "Mountain View"
+                ],
+                "hotelRatings": 8.6,
+                "rooms": [
+                    {
+                        "roomType": "Standard Double Room",
+                        "maxGuests": 2,
+                        "beds": "1 double bed",
+                        "pricePerNight": 120
+                    },
+                    {
+                        "roomType": "Deluxe Twin Room",
+                        "maxGuests": 2,
+                        "beds": "2 single beds",
+                        "pricePerNight": 140
+                    },
+                    {
+                        "roomType": "Family Suite",
+                        "maxGuests": 4,
+                        "beds": "2 double beds",
+                        "pricePerNight": 240
+                    }
+                ]
+            }
+            ,
+            {
+                "id": "RVR456",
+                "hotelName": "River View Resort",
+                "hotelDescription": "River View Resort is the perfect destination for nature lovers. With stunning views of the river and all the modern amenities, our resort promises a relaxing and comfortable stay for all guests.",
+                "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/a8/95/14/hotel-view.jpg?w=700&h=-1&s=1",
+                "roomFacilities": [
+                    "Air Conditioning",
+                    "Free WiFi",
+                    "Flat-screen TV",
+                    "Private Bathroom",
+                    "Toiletries",
+                    "River View"
+                ],
+                "hotelRatings": 9.2,
+                "rooms": [
+                    {
+                        "roomType": "Standard Double Room",
+                        "maxGuests": 2,
+                        "beds": "1 double bed",
+                        "pricePerNight": 110
+                    },
+                    {
+                        "roomType": "Deluxe Twin Room",
+                        "maxGuests": 2,
+                        "beds": "2 single beds",
+                        "pricePerNight": 130
+                    },
+                    {
+                        "roomType": "Family Room",
+                        "maxGuests": 4,
+                        "beds": "2 double beds",
+                        "pricePerNight": 220
+                    }
+                ]
+            }
+            ,
+            {
+                "id": "THR789",
+                "hotelName": "Tiger Hill Resort",
+                "hotelDescription": "Experience the beauty of nature at Tiger Hill Resort, with breathtaking mountain views and modern amenities such as air conditioning, free WiFi, and flat-screen TVs.",
+                "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/9c/89/d7/tiger-hills-resort.jpg",
+                "roomFacilities": [
+                    "Air Conditioning",
+                    "Free WiFi",
+                    "Flat-screen TV",
+                    "Private Bathroom",
+                    "Toiletries",
+                    "Mountain View"
+                ],
+                "hotelRatings": 8.9,
+                "rooms": [
+                    {
+                        "roomType": "Standard Double Room",
+                        "maxGuests": 2,
+                        "beds": "1 double bed",
+                        "pricePerNight": 100
+                    },
+                    {
+                        "roomType": "Superior Double Room",
+                        "maxGuests": 2,
+                        "beds": "1 double bed",
+                        "pricePerNight": 120
+                    },
+                    {
+                        "roomType": "Executive Suite",
+                        "maxGuests": 4,
+                        "beds": "2 double beds",
+                        "pricePerNight": 220
+                    }
+                ]
+            }
+            
+        ]
     },
     {
         "id": "4",
         "name": "RANGAMATI",
-        "image":"https://media.istockphoto.com/id/1442686874/photo/vertical-shot-of-a-dust-trail-up-rural-hills-in-rangamati-bangladesh.jpg?b=1&s=170667a&w=0&k=20&c=O2x5XmKAKSKA2aUtXRqvcDi0ptz6DNJpLGxu4LBEadk=",
-        "description": "Rangamati is a scenic district located in the Chittagong Hill Tracts of Bangladesh. It is known for its picturesque landscape, comprising lush green hills, crystal-clear lakes, and winding rivers. The district is home to numerous indigenous communities, including the Chakma, Marma, and Tripura people, who have their own unique cultures, traditions, and ways of life. Visitors to Rangamati can explore its rich cultural heritage by visiting local villages, attending traditional festivals, and sampling local cuisine. The district is also popular for adventure activities such as trekking, hiking, and boating, with opportunities to explore the area's natural beauty at every turn."
+        "image": "https://media.istockphoto.com/id/1442686874/photo/vertical-shot-of-a-dust-trail-up-rural-hills-in-rangamati-bangladesh.jpg?b=1&s=170667a&w=0&k=20&c=O2x5XmKAKSKA2aUtXRqvcDi0ptz6DNJpLGxu4LBEadk=",
+        "description": "Rangamati is a scenic district located in the Chittagong Hill Tracts of Bangladesh. It is known for its picturesque landscape, comprising lush green hills, crystal-clear lakes, and winding rivers. The district is home to numerous indigenous communities, including the Chakma, Marma, and Tripura people, who have their own unique cultures, traditions, and ways of life. Visitors to Rangamati can explore its rich cultural heritage by visiting local villages, attending traditional festivals, and sampling local cuisine. The district is also popular for adventure activities such as trekking, hiking, and boating, with opportunities to explore the area's natural beauty at every turn.",
+        "hotels": [
+            {
+                "id": "PPR101",
+                "hotelName": "Pan Pacific Resort",
+                "hotelDescription": "Experience luxury at its finest at the Pan Pacific Resort, featuring stunning lake views and modern amenities such as air conditioning, free WiFi, and flat-screen TVs. Choose from a range of comfortable and spacious rooms, including deluxe twin rooms, executive suites, and lake view villas.",
+                "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/b0/d5/65/pan-pacific-singapore.jpg?w=700&h=-1&s=1",
+                "roomFacilities": [
+                    "Air Conditioning",
+                    "Free WiFi",
+                    "Flat-screen TV",
+                    "Private Bathroom",
+                    "Toiletries",
+                    "Lake View"
+                ],
+                "hotelRatings": 9.4,
+                "rooms": [
+                    {
+                        "roomType": "Deluxe Twin Room",
+                        "maxGuests": 2,
+                        "beds": "2 single beds",
+                        "pricePerNight": 150
+                    },
+                    {
+                        "roomType": "Executive Suite",
+                        "maxGuests": 4,
+                        "beds": "2 double beds",
+                        "pricePerNight": 250
+                    },
+                    {
+                        "roomType": "Lake View Villa",
+                        "maxGuests": 6,
+                        "beds": "3 double beds",
+                        "pricePerNight": 400
+                    }
+                ]
+            }
+            ,
+            {
+                "id": "SHR202",
+                "hotelName": "Sairu Hill Resorts",
+                "hotelDescription": "Escape to the natural beauty of the Sairu Hill Resorts, where you can enjoy breathtaking mountain views and modern amenities such as air conditioning, free WiFi, and flat-screen TVs. Choose from a range of comfortable and well-appointed rooms, including deluxe double rooms, superior twin rooms, and family suites.",
+                "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/37/47/bb/photo2jpg.jpg?w=700&h=-1&s=1",
+                "roomFacilities": [
+                    "Air Conditioning",
+                    "Free WiFi",
+                    "Flat-screen TV",
+                    "Private Bathroom",
+                    "Toiletries",
+                    "Mountain View"
+                ],
+                "hotelRatings": 8.9,
+                "rooms": [
+                    {
+                        "roomType": "Deluxe Double Room",
+                        "maxGuests": 2,
+                        "beds": "1 double bed",
+                        "pricePerNight": 120
+                    },
+                    {
+                        "roomType": "Superior Twin Room",
+                        "maxGuests": 2,
+                        "beds": "2 single beds",
+                        "pricePerNight": 140
+                    },
+                    {
+                        "roomType": "Family Suite",
+                        "maxGuests": 4,
+                        "beds": "2 double beds",
+                        "pricePerNight": 240
+                    }
+                ]
+            }
+            ,
+            {
+                "id": "TR123",
+                "hotelName": "Tribal Resort",
+                "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/a0/d1/14/tribal-beach-resort.jpg?w=700&h=-1&s=1",
+                "hotelDescription": "Tribal Resort is a beautiful beachfront resort that offers comfortable and stylish accommodations, top-notch amenities, and breathtaking views of the ocean. Whether you're looking for a romantic getaway or a fun family vacation, Tribal Resort has everything you need to make your stay unforgettable.",
+                "roomFacilities": [
+                    "Air Conditioning",
+                    "Free WiFi",
+                    "Flat-screen TV",
+                    "Private Bathroom",
+                    "Toiletries",
+                    "Garden View"
+                ],
+                "hotelRatings": 8.3,
+                "rooms": [
+                    {
+                        "roomType": "Standard Double Room",
+                        "maxGuests": 2,
+                        "beds": "1 double bed",
+                        "pricePerNight": 80
+                    },
+                    {
+                        "roomType": "Deluxe Twin Room",
+                        "maxGuests": 2,
+                        "beds": "2 single beds",
+                        "pricePerNight": 100
+                    },
+                    {
+                        "roomType": "Family Room",
+                        "maxGuests": 4,
+                        "beds": "2 double beds",
+                        "pricePerNight": 180
+                    }
+                ]
+            }
+            
+        ]
     }
 ]
